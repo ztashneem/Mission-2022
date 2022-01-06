@@ -1,0 +1,235 @@
+body {
+    margin-top: -100px;
+      background-image: url(images/top-banner.png);
+      background-repeat: no-repeat;
+      font-family:'Times New Roman', Times, serif
+  } 
+  img {
+    padding:20%;
+      max-width: 100%;
+      
+    }
+    .half-width {
+      padding:10%;
+      width: 60%;
+      
+    }
+    .linkbutton0
+    {
+      text-decoration: none;
+      color: rgb(61, 2, 53);
+      background-image: linear-gradient(rgb(243, 122, 148),rgb(248, 72, 95));
+      padding: 10px 30px;
+      border-radius: 5px;
+      font-weight: 500;
+    }
+    .button {
+      text-decoration: none;
+      color: rgb(240, 227, 227);
+      background-color: #ac1547;
+      padding: 10px 30px;
+      border-radius: 5px;
+      font-weight: 500;
+      
+    }
+    .Top-banner {
+      display: flex;
+    }
+    
+    .Top-banner-title {
+      border-left: 5px solid #ff5959;
+      margin-top: 120px;
+   border-radius: 5px 5px;}
+      
+    .Top-banner-title h1 {
+      font-weight: bold;
+      margin-left: 10px;
+      font-size: 45px;
+      
+    }
+    
+    .Top-banner-title span {
+      color: orange;
+    }
+    .Top-banner-text p {
+      color: #3e3e3e;
+      margin-bottom: 30px;
+      margin-top: 38px;
+    }
+    
+    .Top-banner-img {
+      width: 350px;
+    }
+    .My-mission h2 {
+      text-align: center;
+      color: #13103a;
+      font-size: 40px;
+    }
+    .My-mission h2 span {
+      color: orange;
+    }
+    
+    .my-mission-card {
+      display: flex;
+    
+      padding: 5%;
+    }
+    
+    .Mission {
+      background-color: #edf5f6;
+    }
+    .Vission {
+      background-color: #ffeeee;
+    }
+    .Goals {
+      background-color: #fff4d6;
+    }
+    .card {
+      width: 28%;
+      margin-right: 2%;
+      height: 330px;
+      border-radius: 24px;
+      padding: 3%;
+      
+    }
+    .mission-img {
+      width: 180px;
+      
+    }
+    .mission-text h3 {
+      font-size: 24px;
+    }
+    .mission-text p {
+      text-align: justify;
+      color: #2e2b2b;
+    }
+    .developer-limits {
+      display: flex;
+      background-position: left;
+      background-size: 250px;
+      background-image: url(./images/shape-6.png);
+      background-repeat: no-repeat;
+     
+    }
+    .developer-img {
+      width: 470px;
+      margin-left: 29px;
+    }
+    .developer-text {
+      margin-left: -48px;
+      margin-top: 53px;
+    }
+    
+    .developer-text h2 {
+      font-size: 45px;
+      font-weight: 900;
+      color: #333333;
+    }
+    .developer-text p {
+      margin-bottom: 35px;
+    }
+    .global {
+      display: flex;
+      background-image: url(./images/shape-8.png);
+      background-size: 300px;
+      background-position: right bottom;
+      background-repeat: no-repeat;
+  
+    }
+    .global-text {
+      margin-top: 53px;
+    }
+    .global-text h2 {
+      font-size: 45px;
+      font-weight: 900;
+      color: #333333;
+    }
+    .global-text p {
+      margin-bottom: 35px;
+    }
+    .global-img {
+      width: 440px;
+      margin-left: -11px;
+      margin-bottom: 24px;
+    }
+   
+  .linkbutton2{
+      text-decoration: none;
+      color: white;
+      font-weight: 700;
+  }
+  
+    .webdev{
+      margin-bottom: 100px;
+  }
+  
+  .webdev h2 {
+      text-align: center;
+      margin-bottom: 50px;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 200%;
+  }
+  
+  .webdev-sec {
+      display: flex;
+  }
+  
+  .web-dev {
+      font-family: 'Times New Roman', Times, serif;
+      width: 100%;
+      box-shadow: 0px 10px 20px #bb1cbb17;
+      border-radius: 120px 120px 120px 120px;
+      padding: 50px 30px;
+      margin: 0 4%;
+      background-color: rgb(235, 170, 231);
+      
+      text-align: center;
+  }
+  
+    .about-phero{
+      display: flex;
+    }
+    .about-ph {
+      margin-top: 100px;
+    }
+    .about-ph h1 {
+      font-size: 40px;
+    }
+    .about-ph h2 {
+      font-size: 34px;
+    }
+    .about-ph h2 span {
+      color: #ff5959;
+    }
+    .about-ph h4 {
+      font-size: 15px;
+      color: #b5b7be;
+    }
+    
+    .about-ph h5 {
+      color: #333333;
+    }
+    .about-ph p {
+      font-size: 17px;
+    }
+    .about-website {
+      width: 400px;
+      border-radius: 30px;
+    
+    }
+    footer{
+      color: white;
+      background-color: black;
+  }
+  footer {
+      text-align: center;
+      padding: 30px 0px;
+  }
+  footer h2{
+      font-family:'Courier New', Courier, monospace;
+  }
+  .linkbutton2{
+      text-decoration: none;
+      color: rgb(247, 54, 54);
+      font-weight: 700;
+  }
